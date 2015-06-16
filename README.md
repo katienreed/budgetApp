@@ -8,11 +8,11 @@ I want to better understand javascript libraries and frameworks.  I figured Back
 
 ##Todo
 1. Expense Categories
-* Build a model and a corresponding view
+  1. Build a model and a corresponding view
 
 2. Income Submit
-* Build a model and a corresponding view
+  1. Build a model and a corresponding view
 
 3. Pie Chart
-* Attach d3.js and High Charts to application
-* Build a model and corresponding view
+  1. Attach d3.js and High Charts to application
+  2. Build a model and corresponding view
